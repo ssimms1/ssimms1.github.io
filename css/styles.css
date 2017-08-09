@@ -1,0 +1,51 @@
+html {
+
+}
+body {
+	position: relative;
+}
+
+h1, h2, h3 {
+	color: body;
+    background-color: lightblue;
+}
+h1 {
+color: #ffffff;
+}
+.navigation {
+	
+}
+
+#id {
+
+}
+
+img {
+	background-image
+}
+div {
+	background-color: beige;
+}
+.bio {
+	float: left;
+	width: 700px;
+}
+
+.bio p {
+	margin:0;
+}
+.sabrina {
+	width: 250px;
+	float: left;
+
+}
+footer {
+	bottom: 0;
+	position: fixed;
+    width: 100%;
+    background-color: beige;
+}
+footer .copyright {
+	text-align: center;
+}
+
